@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mub1522" alt="mub1522" /></a> </p>
 
-- 🔭 I’m currently working on **CMU(Intranet)**
-
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and CakePHP**
 
 - 📫 How to reach me **mubpersonal5@gmail.com**
 
